@@ -18,10 +18,10 @@
                 <div id="particles-js">
                 </div>
                 <div class="navbar-content">
-                    <a href="index.html"><img src="./public/images/logo-comsoc-uni.png" alt="Logo ComSocUNI" class="logo navbar-logo animate-up"></a>
+                    <a href="./index.html"><img src="./public/images/logo-comsoc-uni.png" alt="Logo ComSocUNI" class="logo navbar-logo animate-up"></a>
                     <nav class="navbar-nav">
-                        <a href="contenido.html" class="active animate-up">Contenido</a>
-                        <a href="linux.html" class="active animate-up">GNU / Linux</a>
+                        <a href="./contenido.html" class="active animate-up">Contenido</a>
+                        <a href="./procesamiento.html" class="active animate-up">Procesamiento de Imágenes</a>
                     </nav>
                 </div>
             </div>
@@ -29,11 +29,11 @@
                 <main class="event-content-grid">
                     <div class="container-video" >
                         <div class="style-container-video">
-                            <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/8mJ7baKEls4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+                            <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/qXN4zDFzwx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
                         </div>
                         <div class="style-actions-video">
                             <div class="style-interaction-button">
-                                <a href="linux.html" class="style-button animate-up">
+                                <a href="./procesamiento.html" class="style-button animate-up">
                                     <img src="./public/images/download.png" alt="Material complementario" class="style-icon animate-up">
                                     <p class="style-button-text animate-up">MATERIAL COMPLEMENTARIO</p>
                                 </a>
@@ -74,7 +74,7 @@
 
             var obj = new XMLHttpRequest();
             obj.overrideMimeType("application/json");
-            obj.open('GET', './json/linux.json', true);
+            obj.open('GET', './json/laravel.json', true);
             obj.onreadystatechange = function () {
                 if (obj.readyState == 4 && obj.status == "200") {
 
