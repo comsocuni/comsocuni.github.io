@@ -5,8 +5,8 @@
         "title" : "Introducción",
         "url": "https://www.youtube.com/embed/S2EewKMav6k",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 1",
-            "text": "1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "¿Qué es NodeJs?. ¿Qué relación guarda con JavaScript?.Los proyectos que se están realizando en la actualidad haciendo uso de NodeJs.Los estándares modernos de programación en este entorno de ejecución. Los stack existentes para realizar proyectos."
         }
     },
     {
@@ -15,8 +15,8 @@
         "title" : "Express + GraphQL",
         "url": "https://www.youtube.com/embed/9TfzUX_vYN8",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 2",
-            "text": "2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Levantamiento de un servidor web con NodeJs. Uso de Express para crear servidores web. Modelo REST. Peticiones GET en HTTP"
         }
     },
     {
@@ -25,8 +25,8 @@
         "title" : "NodeJS + MongoDB",
         "url": "https://www.youtube.com/embed/c2lQbySa2jU",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 3",
-            "text": "3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "MongoDB como motor de bases de datos no relacionales. Documentos y Colecciones en las bases de datos. "
         }
     },
     {
@@ -35,8 +35,8 @@
         "title" : "CRUD: NodeJS + MongoDB",
         "url": "https://www.youtube.com/embed/szWlLO5tq64",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 4",
-            "text": "4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Creación de una API REST. Create, Read, Update & Delete"
         }
     },
     {
@@ -45,8 +45,8 @@
         "title" : "Proyecto Final",
         "url": "https://www.youtube.com/embed/_X9ahDBIrK8",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 5",
-            "text": "5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Proyecto de integración usando lo aprendido en el curso"
         }
     }
 ]

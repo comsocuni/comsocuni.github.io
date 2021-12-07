@@ -5,8 +5,8 @@
         "title" : "Introducción y configuración del entorno de trabajo",
         "url": "https://www.youtube.com/embed/qlDyy12xgWg",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 1",
-            "text": "1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Introducción a PHP y el framework Laravel para desarrollo Backend. Ventajas de Laravel frente a otros frameworks o librerías. Instalaciones de paquetación recomendable en Visual Studio Code. Laragon. Configuraciones iniciales para los proyectos."
         }
     },
     {
@@ -15,8 +15,8 @@
         "title" : "Empezando a trabajar con laravel",
         "url": "https://www.youtube.com/embed/oIE6EQD0WPs",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 2",
-            "text": "2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Autentificación en Laravel. Integración con la interfaz (front-end). Modelos de backend."
         }
     },
     {
@@ -25,8 +25,8 @@
         "title" : "Auth y Personalización",
         "url": "https://www.youtube.com/embed/TJw7n09LJb0",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 3",
-            "text": "3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Manejo de los modelos. Template de bootstrap para Laravel. Autentificación y personalización del proyecto"
         }
     },
     {
@@ -35,8 +35,8 @@
         "title" : "Gestión de tablas CRUDs",
         "url": "https://www.youtube.com/embed/xg-PNcuUJf8",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 4",
-            "text": "4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Creación de aplicación CRUD en Laravel. Métodos del protocolo HTTP para comunicaciones cliente servidor"
         }
     }
 ]
