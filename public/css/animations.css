@@ -46,3 +46,21 @@
   animation-duration: 300ms;
   animation-fill-mode: backwards;
 }
+
+/* Loader */
+
+#preloader {
+  background: #0e152f url(./../images/logo-comsoc-uni.png) no-repeat center
+    center;
+  background-size: 15%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+@media only screen and (max-width: 700px) {
+  #preloader {
+    background-size: 28%;
+  }
+}
