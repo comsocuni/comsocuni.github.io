@@ -31,7 +31,7 @@
         "href": "./laravel.html",
         "backgroundColor": "#659AD2",
         "urlImage": "./public/images/laravel.png",
-        "alt": "CPlusPlus",
+        "alt": "Laravel",
         "title": "4. Sistemas Web con Laravel 8",
         "description": "Laravel es un marco de aplicación web con una sintaxis elegante y expresiva. Un marco web proporciona una estructura y un punto de partida para crear su aplicación, lo que le permite concentrarse en crear algo sorprendente mientras nos preocupamos por los detalles."
     },
