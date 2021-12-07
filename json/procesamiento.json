@@ -1,0 +1,42 @@
+[
+    {
+        "id" : "1",
+        "sesion" : "Introducción al Procesamiento de Imágenes con Python #1",
+        "title" : "Configuración del entorno de trabajo y conceptos base",
+        "url": "https://www.youtube.com/embed/qXN4zDFzwx4",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Configuración del entorno de trabajo y conceptos base"
+        }
+    },
+    {
+        "id" : "2",
+        "sesion" : "Introducción al Procesamiento de Imágenes con Python #2",
+        "title" : "Primeros Scripts de OpenCV",
+        "url": "https://www.youtube.com/embed/y5Deum_vK6U",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Primeros Scripts de OpenCV"
+        }
+    },
+    {
+        "id" : "3",
+        "sesion" : "Introducción al Procesamiento de Imágenes con Python #3",
+        "title" : "Aplicaciones, filtros y uso de video",
+        "url": "https://www.youtube.com/embed/79hzdUFIuUM",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Aplicaciones, filtros y uso de video"
+        }
+    },
+    {
+        "id" : "4",
+        "sesion" : "Introducción al Procesamiento de Imágenes con Python #4",
+        "title" : "MediaPipe y Compatibilidad",
+        "url": "https://www.youtube.com/embed/pQ-U11rykhA",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "MediaPipe y Compatibilidad"
+        }
+    }
+]

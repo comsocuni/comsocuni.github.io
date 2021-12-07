@@ -37,11 +37,11 @@
     },
     {
         "id": "5",
-        "href": "./linux.html",
+        "href": "./procesamiento.html",
         "backgroundColor": "#1E415D",
         "urlImage": "./public/images/python.png",
-        "alt": "Python",
-        "title": "5. Capacitación de Python",
-        "description": "Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional"
+        "alt": "Procesamiento imágenes Python",
+        "title": "5. Procesamiento Digital de Imágenes con Python",
+        "description": "El procesamiento de imágenes digitales es el conjunto de técnicas que se aplican a las imágenes digitales con el objetivo de mejorar la calidad o facilitar la búsqueda de información."
     }
 ]

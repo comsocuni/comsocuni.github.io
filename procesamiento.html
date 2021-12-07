@@ -5,6 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ComSocUNI</title>
+
+    <link rel="icon" type="image/png" sizes="16x16"  href="./public/images/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
     <link rel="stylesheet" href="./public/css/animations.css" />
     <link rel="stylesheet" href="./public/css/main.css" />
     <link rel="stylesheet" href="./public/css/linux.css" />
@@ -51,10 +56,9 @@
                     </section>
                     <div class="style-container-foot">
                         <div>
-                            <h2 class="style-title-foot animate-up" id="cont-title" >En esta sección aprenderemos 1</h2>
+                            <h2 class="style-title-foot animate-up" id="cont-title" >En esta sección aprenderemos</h2>
                             <p class="style-description-foot animate-up" id="cont-description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?
+                                Configuración del entorno de trabajo y conceptos base
                             </p>
                         </div>
                     </div>
@@ -74,7 +78,7 @@
 
             var obj = new XMLHttpRequest();
             obj.overrideMimeType("application/json");
-            obj.open('GET', './json/laravel.json', true);
+            obj.open('GET', './json/procesamiento.json', true);
             obj.onreadystatechange = function () {
                 if (obj.readyState == 4 && obj.status == "200") {
 
