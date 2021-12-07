@@ -6,7 +6,7 @@
         "url": "https://www.youtube.com/embed/qXN4zDFzwx4",
         "description" : {
             "subtitle" : "En esta sección aprenderemos",
-            "text": "Configuración del entorno de trabajo y conceptos base"
+            "text": "Configuraciones e instalaciones iniciales del entorno de trabajo. Conceptos básicos de Visión por computador usando Python."
         }
     },
     {
@@ -16,7 +16,7 @@
         "url": "https://www.youtube.com/embed/y5Deum_vK6U",
         "description" : {
             "subtitle" : "En esta sección aprenderemos",
-            "text": "Primeros Scripts de OpenCV"
+            "text": "Conceptos de OpenCV. Scrips y funciones para el procesamiento de imágenes."
         }
     },
     {
@@ -26,7 +26,7 @@
         "url": "https://www.youtube.com/embed/79hzdUFIuUM",
         "description" : {
             "subtitle" : "En esta sección aprenderemos",
-            "text": "Aplicaciones, filtros y uso de video"
+            "text": "Estructura genérica de las imágenes. Tipos de filtros y aplicaciones. Procesamiento de video. "
         }
     },
     {
@@ -36,7 +36,7 @@
         "url": "https://www.youtube.com/embed/pQ-U11rykhA",
         "description" : {
             "subtitle" : "En esta sección aprenderemos",
-            "text": "MediaPipe y Compatibilidad"
+            "text": "MediaPipe y Compatibilidad. Aplicaciones. Proyecto Final."
         }
     }
 ]

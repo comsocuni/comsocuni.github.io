@@ -5,8 +5,8 @@
         "title" : "Instalación",
         "url": "https://www.youtube.com/embed/8mJ7baKEls4",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 1",
-            "text": "1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Instalación de un sistema operativo Linux (CentOS 7) en Virtual Box. Distribuciones de GNU/Linux más comunes. Sistema de ficheros. Configuraciones de red."
         }
     },
     {
@@ -15,8 +15,8 @@
         "title" : "Comandos Básicos Parte 1",
         "url": "https://www.youtube.com/embed/TtnftDbI8J8",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 2",
-            "text": "2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Comandos básicos en Linux. Creación de usuarios y grupos. Permisos y privilegios de usuarios. Manejo de archivos y directorios"
         }
     },
     {
@@ -25,8 +25,8 @@
         "title" : "Comandos Básicos Parte 2",
         "url": "https://www.youtube.com/embed/EkDcUPKM8r0",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 3",
-            "text": "3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Comandos básicos en Linux. Búsqueda de archivos en el sistema. Navegación entre ficheros. Editores de texto en consola"
         }
     },
     {
@@ -35,8 +35,8 @@
         "title" : "Aplicando Comandos Basicos: Obtener IPs de Dominios",
         "url": "https://www.youtube.com/embed/vWGN9orpvmE",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 4",
-            "text": "4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Comandos para administración de Redes. IPV4 e IPV6"
         }
     },
     {
@@ -45,8 +45,8 @@
         "title" : "Configurar Tarjeta de Red, Servidor HTTP Apache, Introducción al Diseño Web",
         "url": "https://www.youtube.com/embed/2V-fmwEXa0o",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 5",
-            "text": "5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Tarjetas de red. Configuración de IP estática y dinámica. Instalación de un servidor web. Creación de mi primera página web."
         }
     },
     {
@@ -55,8 +55,8 @@
         "title" : "Python, C++, C Instalación e Implementación Básica 6",
         "url": "https://www.youtube.com/embed/uWLDm2HFUSs",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 6",
-            "text": "6 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Instalación de Python y el compilador de C+++. Introducción a la programación en Python y C++"
         }
     },
     {
@@ -65,8 +65,8 @@
         "title" : "Base de Datos (Implementación Básica): DbNinja, Laragon, MariaDB",
         "url": "https://www.youtube.com/embed/Kb2SFPnghFA",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 7",
-            "text": "7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Introducción a las bases de datos. Laragon, DBNinja y MariaDB. Creación y administración de bases de datos"
         }
     },
     {
@@ -75,8 +75,8 @@
         "title" : "Proyecto Final",
         "url": "https://www.youtube.com/embed/8waAsXvOztQ",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 8",
-            "text": "8 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Creación del proyecto final integrando Frontend, Bases de datos, Servidor web, Filezilla y el protocolo seguro SSH."
         }
     }
 ]
