@@ -1,0 +1,82 @@
+[
+    {
+        "id" : "1",
+        "sesion" : "Linux introducción #1",
+        "title" : "Instalación",
+        "url": "https://www.youtube.com/embed/8mJ7baKEls4",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 1",
+            "text": "1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "2",
+        "sesion" : "Linux introducción #2",
+        "title" : "Comandos Básicos Parte 1",
+        "url": "https://www.youtube.com/embed/TtnftDbI8J8",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 2",
+            "text": "2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "3",
+        "sesion" : "Linux introducción #3",
+        "title" : "Comandos Básicos Parte 2",
+        "url": "https://www.youtube.com/embed/EkDcUPKM8r0",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 3",
+            "text": "3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "4",
+        "sesion" : "Linux introducción #4",
+        "title" : "Aplicando Comandos Basicos: Obtener IPs de Dominios",
+        "url": "https://www.youtube.com/embed/vWGN9orpvmE",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 4",
+            "text": "4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "5",
+        "sesion" : "Linux introducción #5",
+        "title" : "Configurar Tarjeta de Red, Servidor HTTP Apache, Introducción al Diseño Web",
+        "url": "https://www.youtube.com/embed/2V-fmwEXa0o",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 5",
+            "text": "5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "6",
+        "sesion" : "Linux introducción #6",
+        "title" : "Python, C++, C Instalación e Implementación Básica 6",
+        "url": "https://www.youtube.com/embed/uWLDm2HFUSs",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 6",
+            "text": "6 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "7",
+        "sesion" : "Linux introducción #7",
+        "title" : "Base de Datos (Implementación Básica): DbNinja, Laragon, MariaDB",
+        "url": "https://www.youtube.com/embed/Kb2SFPnghFA",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 7",
+            "text": "7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "8",
+        "sesion" : "Linux introducción #8",
+        "title" : "Proyecto Final",
+        "url": "https://www.youtube.com/embed/8waAsXvOztQ",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 8",
+            "text": "8 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    }
+]

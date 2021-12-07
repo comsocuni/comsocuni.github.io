@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "sesion" : "Fundamentos de Redes #1",
+        "title" : "Conceptos fundamentales",
+        "url": "https://www.youtube.com/embed/ZOQYZEPKrJg",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 1",
+            "text": "1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "2",
+        "sesion" : "Fundamentos de Redes #2",
+        "title" : "Modelos: de Protocolo y de Referencia",
+        "url": "https://www.youtube.com/embed/w-SGjd48a4s",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 2",
+            "text": "2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "3",
+        "sesion" : "Fundamentos de Redes #3",
+        "title" : "Implementación de proyectos: Cisco Packet Tracer",
+        "url": "https://www.youtube.com/embed/_lskyaOG7hM",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 3",
+            "text": "3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    }
+]

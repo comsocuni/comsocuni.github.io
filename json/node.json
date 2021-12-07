@@ -1,0 +1,52 @@
+[
+    {
+        "id" : "1",
+        "sesion" : "NodeJS #1",
+        "title" : "Introducción",
+        "url": "https://www.youtube.com/embed/S2EewKMav6k",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 1",
+            "text": "1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "2",
+        "sesion" : "NodeJS #2",
+        "title" : "Express + GraphQL",
+        "url": "https://www.youtube.com/embed/9TfzUX_vYN8",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 2",
+            "text": "2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "3",
+        "sesion" : "NodeJS #3",
+        "title" : "NodeJS + MongoDB",
+        "url": "https://www.youtube.com/embed/c2lQbySa2jU",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 3",
+            "text": "3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "4",
+        "sesion" : "NodeJS #4",
+        "title" : "CRUD: NodeJS + MongoDB",
+        "url": "https://www.youtube.com/embed/szWlLO5tq64",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 4",
+            "text": "4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    },
+    {
+        "id" : "5",
+        "sesion" : "NodeJS #5",
+        "title" : "Proyecto Final",
+        "url": "https://www.youtube.com/embed/_X9ahDBIrK8",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos 5",
+            "text": "5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+        }
+    }
+]

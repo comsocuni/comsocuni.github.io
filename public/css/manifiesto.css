@@ -1,0 +1,171 @@
+html {
+  background: var(--color-background);
+}
+
+#round {
+  background: url("../images/round.png") no-repeat -30% / clamp(10rem, 40vw, 50rem);
+  position: absolute;
+  background-size: 83%;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  float: right;
+}
+
+#page-landing {
+  min-height: 10vh;
+}
+
+#container {
+  margin: auto;
+
+  max-width: 900px;
+}
+
+.logo {
+  animation-delay: 50ms;
+  width: 150%;
+}
+
+header {
+  width: 100%;
+  max-width: 1120px;
+  margin: 35px auto;
+  display: grid;
+  grid-template-columns: 180px 200px 1fr;
+  justify-items: flex-end;
+  -webkit-box-align: center;
+  align-items: center;
+  grid-auto-flow: row;
+  grid-column-gap: 40px;
+  height: 100%;
+}
+
+header a {
+  cursor: pointer;
+}
+
+section {
+  padding-top: 80px;
+  display: block;
+}
+
+section .banner {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+section .banner .banner-text {
+  font-size: 115px;
+  line-height: 1;
+  text-align: left;
+  color: var(--color-secondary);
+  font-weight: 700;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: Helvetica, arial, sans-serif;
+}
+
+section .banner .banner-text b {
+  color: var(--color-red);
+}
+
+section .banner .sentence {
+  margin-top: 140px;
+}
+
+section .banner .sentence > p:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+section .banner .sentence > p {
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 1;
+  color: var(--color-secondary);
+}
+
+section .banner .fund {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+  margin-top: 80px;
+  margin-bottom: 120px;
+}
+
+section .banner .fund .boosters {
+  font-weight: bold;
+  font-size: 54px;
+  line-height: 1;
+  color: var(--color-secondary);
+}
+
+section .banner .fund .boosters b {
+  color: var(--color-red);
+}
+
+section .banner .fund .home {
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  border-radius: 5px;
+  padding: 12px 32px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  transition: all 0.2s ease 0s;
+  background: var(--color-shape);
+  height: 56px;
+  max-width: 225px;
+}
+
+section .banner .fund .home:hover {
+  background: var(--color-shape-hover);
+}
+
+@media only screen and (max-width: 560px) {
+  .logo {
+    width: 120%;
+  }
+
+  #page-landing {
+    padding-left: 30px;
+    display: block;
+  }
+
+  section {
+    padding-top: 70px;
+  }
+
+  section .banner .banner-text {
+    font-size: 60px;
+    line-height: 1;
+  }
+
+  section .banner .sentence > p {
+    font-size: 23px;
+  }
+
+  section .banner .fund .boosters {
+    font-size: 30px;
+    line-height: 1;
+    margin-right: 30px;
+  }
+
+  section .banner .fund .home {
+    text-align: center;
+  }
+}

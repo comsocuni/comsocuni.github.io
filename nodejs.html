@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ComSocUNI</title>
+    <link rel="stylesheet" href="./public/css/animations.css" />
+    <link rel="stylesheet" href="./public/css/main.css" />
+    <link rel="stylesheet" href="./public/css/linux.css" />
+    <link rel="stylesheet" href="./public/css/style-card-highlight.css" />
+</head>
+<body>
+    <div id="app">
+        
+        <div class="container">
+            <div height="72" class="navbar">
+                <div id="particles-js">
+                </div>
+                <div class="navbar-content">
+                    <a href="./index.html"><img src="./public/images/logo-comsoc-uni.png" alt="Logo ComSocUNI" class="logo navbar-logo animate-up"></a>
+                    <nav class="navbar-nav">
+                        <a href="./contenido.html" class="active animate-up">Contenido</a>
+                        <a href="./nodejs.html" class="active animate-up">NodeJS</a>
+                    </nav>
+                </div>
+            </div>
+            <div class="container-content">
+                <main class="event-content-grid">
+                    <div class="container-video" >
+                        <div class="style-container-video">
+                            <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/S2EewKMav6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+                        </div>
+                        <div class="style-actions-video">
+                            <div class="style-interaction-button">
+                                <a href="./nodejs.html" class="style-button animate-up">
+                                    <img src="./public/images/download.png" alt="Material complementario" class="style-icon animate-up">
+                                    <p class="style-button-text animate-up">MATERIAL COMPLEMENTARIO</p>
+                                </a>
+                            </div>
+                            <div>
+                                <button type="button" class="style-fullscreen animate-up" title="Modo teatro" aria-label="Modo teatro">
+                                    <div class="style-fullscreen-icon animate-up"></div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <section class="style-menu">
+                        <div class="style-schedule" id="schedule">
+                        </div>
+                    </section>
+                    <div class="style-container-foot">
+                        <div>
+                            <h2 class="style-title-foot animate-up" id="cont-title" >En esta sección aprenderemos 1</h2>
+                            <p class="style-description-foot animate-up" id="cont-description">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?
+                            </p>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-8216c69d01441f36c0ea791ae2d4469f0f8ff5326f00ae2d00e4bb7d20e24edb.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="https://threejs.org/examples/js/libs/stats.min.js"></script>
+
+    <script src="./public/scripts/particles.js"></script>
+
+    <script>
+        function loadJSON(callback) {
+
+            var obj = new XMLHttpRequest();
+            obj.overrideMimeType("application/json");
+            obj.open('GET', './json/node.json', true);
+            obj.onreadystatechange = function () {
+                if (obj.readyState == 4 && obj.status == "200") {
+
+                    // .open NO devolverá un valor, sino que simplemente devuelve undefined en modo asíncrono, así que use una devolución de callback()
+                    callback(obj.responseText);
+
+                }
+            }
+            obj.send(null);
+
+        }
+
+        // Llamada a funcionar con devolución de llamada anónima
+        loadJSON(function(response) {
+            // Haga algo con la respuesta
+            jsonResponse = JSON.parse(response);
+
+            // Suponiendo que los datos json están envueltos entre corchetes 
+
+            jsonResponse.forEach(
+                
+                function(elemento){
+
+                    // let list = document.getElementById("schedule")
+
+                    function addElement(elemento){
+                        let list = document.querySelector(".style-schedule")
+                        
+                        let divZero = document.createElement("div")
+                        divZero.setAttribute("class", "style-container")
+
+                        let p = document.createElement("p")
+                        p.setAttribute("class", "style-hour animate-up")
+                        p.textContent = elemento.sesion
+
+                        let a = document.createElement("a")
+                        a.setAttribute("id",elemento.id) 
+
+                        let divOne = document.createElement("div")
+                        divOne.setAttribute("class", "style-current")
+
+                        let divTwo = document.createElement("div")
+                        divTwo.setAttribute("tabindex", "0")
+                        divTwo.setAttribute("class", "style-borderwrap")
+
+                        let divThree = document.createElement("div")
+                        divThree.setAttribute("onclick", "clickerino(event)")
+                        divThree.setAttribute("class", "style-card")
+
+                        let divFour = document.createElement("div")
+                        divFour.setAttribute("class", "style-borderarrow")
+
+                        let section = document.createElement("section")
+                        section.setAttribute("class","style-description")
+
+                        let sectionP = document.createElement("p")
+                        sectionP.setAttribute("class","style-title animate-up")
+                        sectionP.textContent = elemento.title
+
+                        section.append(sectionP)
+                        divThree.append(section)
+                        divTwo.append(divThree)
+                        divTwo.append(divFour)
+                        divOne.append(divTwo)
+                        a.append(divOne)
+                        divZero.append(p)
+                        divZero.append(a)
+                        list.append(divZero)  
+                    }
+
+                    addElement(elemento)
+
+                    function selectElement(elemento){
+                        let selectId = document.getElementById(elemento.id)
+                        
+                        selectId.addEventListener("click", function(){
+
+                            let position = elemento.id - 1
+                            
+                            let video = document.getElementById("video")
+                            video.setAttribute("src", elemento.url)
+
+                            let contTitle = document.getElementById("cont-title")
+                            contTitle.textContent = elemento.description.subtitle
+
+                            let contDescription = document.getElementById("cont-description")
+                            contDescription.textContent = elemento.description.text
+
+                            let element = document.getElementsByClassName('style-borderarrow')
+                            
+                            element = element[position]
+                            element.style.setProperty('display', 'block')
+
+                            displayNone(position)
+
+                        })
+
+                    }
+
+                    selectElement(elemento)
+
+                    function displayNone(position){
+                        let element = document.getElementsByClassName('style-borderarrow')
+
+                        for (let i = 0; i < element.length; i++) {
+                            if (i !== position) {
+                                element[i].style.setProperty('display', 'none')
+                            }
+                        }
+
+                    }
+
+                }
+            )
+
+        });
+
+        function clickerino(e) {
+
+            for (let opcion of  document.getElementsByClassName("style-card")) {
+                opcion.setAttribute("style", "border:none; ");
+            }
+
+            e.currentTarget.setAttribute("style", "background-color: var(--color-blue);border: 1.5px solid var(--color-primary);border-radius: 5px;padding: 16px;");
+  
+        }
+    </script>
+
+</body>
+</html>

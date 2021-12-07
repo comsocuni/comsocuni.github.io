@@ -1,0 +1,50 @@
+/* Que es una regla css? #*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, arial, sans-serif;
+}
+
+:root {
+  font-size: 62.5%; /*16px-1em-100%*/
+  --color-background: #0e152f;
+  --color-blue: #010924;
+  --color-navbar: #0e152f;
+  --color-green: #04d361;
+  --color-red: #e83f5b;
+  --color-orange: #fd951f;
+  --color-yellow: #f7df1e;
+  --color-primary: #8257e6;
+  --color-primary-hover: #9466ff;
+  --color-secondary: #e1e1e6;
+  --color-text: #a8a8b3;
+  --color-support: #ffffff;
+  --color-shape: #202024;
+  --color-shape-hover: #29292e;
+  --color-icons: #010102;
+  --color-borders: #323238;
+  --color-black: #0d0d0f;
+  --color-white: #fff;
+  --color-scrollbar: #4d4d57;
+  --color-scrollbar-background: transparent;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  background: var(--color-scrollbar-background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-scrollbar);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  background: var(--color-scrollbar-background);
+}

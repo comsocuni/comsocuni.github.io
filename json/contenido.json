@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "href": "./nodejs.html",
+        "backgroundColor": "#f2f2f2",
+        "urlImage": "./public/images/nodejs.png",
+        "alt": "NodeJS",
+        "title": "1. Capacitación de NodeJS",
+        "description": "Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google"
+    },
+    {
+        "id": "2",
+        "href": "./linux.html",
+        "backgroundColor": "#E83F5B",
+        "urlImage": "./public/images/linux.png",
+        "alt": "Linux",
+        "title": "2. Capacitación de GNU/Linux",
+        "description": "GNU/Linux es la denominación técnica y generalizada que reciben una serie de sistemas operativos de tipo Unix, que también suelen ser de código abierto, multiplataforma, multiusuario y multitarea"
+    },
+    {
+        "id": "3",
+        "href": "./redes.html",
+        "backgroundColor": "#FFFFFF",
+        "urlImage": "./public/images/redes.png",
+        "alt": "Redes",
+        "title": "3. Capacitación de Redes",
+        "description": "Una red de computadoras es un conjunto de equipos nodos y software conectados entre sí por medio de dispositivos físicos o inalámbricos que envían y reciben impulsos eléctricos, ondas electromagnéticas o cualquier otro medio para el transporte de datos, con la finalidad de compartir información, recursos y ofrecer servicios"
+    },
+    {
+        "id": "4",
+        "href": "./laravel.html",
+        "backgroundColor": "#659AD2",
+        "urlImage": "./public/images/laravel.png",
+        "alt": "CPlusPlus",
+        "title": "4. Sistemas Web con Laravel 8",
+        "description": "Laravel es un marco de aplicación web con una sintaxis elegante y expresiva. Un marco web proporciona una estructura y un punto de partida para crear su aplicación, lo que le permite concentrarse en crear algo sorprendente mientras nos preocupamos por los detalles."
+    },
+    {
+        "id": "5",
+        "href": "./linux.html",
+        "backgroundColor": "#1E415D",
+        "urlImage": "./public/images/python.png",
+        "alt": "Python",
+        "title": "5. Capacitación de Python",
+        "description": "Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional"
+    }
+]
