@@ -5,8 +5,8 @@
         "title" : "Conceptos fundamentales",
         "url": "https://www.youtube.com/embed/ZOQYZEPKrJg",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 1",
-            "text": "1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Introducción a las certificaciones CISCO en networking. Conceptos preliminares de direccionamiento IP. Modelo de capas OSI y TCP/IP."
         }
     },
     {
@@ -15,8 +15,8 @@
         "title" : "Modelos: de Protocolo y de Referencia",
         "url": "https://www.youtube.com/embed/w-SGjd48a4s",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 2",
-            "text": "2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Topologpias de Red. Redes LAN, WAN y MAN. Protocoloes básicos de redes. Estructura de los protocolos TCP e IP"
         }
     },
     {
@@ -25,8 +25,8 @@
         "title" : "Implementación de proyectos: Cisco Packet Tracer",
         "url": "https://www.youtube.com/embed/_lskyaOG7hM",
         "description" : {
-            "subtitle" : "En esta sección aprenderemos 3",
-            "text": "3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, quos, quidem laboriosam, recusandae sunt iure quis aliquam dolorum doloremque adipisci esse. Incidunt exercitationem tempore provident tenetur vel esse corporis quae?"
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Novedades de la nueva versión de Cisco Packet Tracer. Equipos comunmente usados en las simulaciones y la vida real. Análsiis de redes con wireshark"
         }
     }
 ]
