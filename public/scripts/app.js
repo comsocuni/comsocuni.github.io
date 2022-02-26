@@ -15,7 +15,7 @@ elementHeight = elementHeight.replace('px', '')
 
 let height = Number.parseInt(elementHeight, 10)
 
-let heightMin = -height * 4
+let heightMin = -height * 4;
 
 let x = 0;
 
